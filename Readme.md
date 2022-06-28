@@ -34,4 +34,13 @@ ___
 ![traceroute](https://github.com/davlyatov-ts/Networks-1/blob/master/traceroute.png)
 ___
 6.Повторите задание 5 в утилите mtr. На каком участке наибольшая задержка - delay?
-![]()
+![mtr](https://github.com/davlyatov-ts/Networks-1/blob/master/mtr.png)
+___
+7.Какие DNS сервера отвечают за доменное имя dns.google? Какие A записи? воспользуйтесь утилитой dig<br>
+```
+pi@ca:~$ dig +short NS dns.google
+ns2.zdns.google.
+ns4.zdns.google.
+ns1.zdns.google.
+ns3.zdns.google.
+```
