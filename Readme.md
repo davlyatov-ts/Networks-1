@@ -17,3 +17,10 @@ https://stackoverflow.com/questions<br>
 ```
 ___
 2.Повторите задание 1 в браузере, используя консоль разработчика F12.<br>
+
+___
+3.Какой IP адрес у вас в интернете?<br>
+```
+dig +short myip.opendns.com @resolver1.opendns.com
+94.29.8.191
+```
