@@ -47,9 +47,8 @@ ns3.zdns.google.
 ```
 ___
 8.Проверьте PTR записи для IP адресов из задания 7. Какое доменное имя привязано к IP? воспользуйтесь утилитой dig<br>
-***dig +short A dns.google***<br>
+***dig -x 8.8.8.8 +noall +answer***<br>
 ```
-8.8.8.8
-8.8.4.4
+8.8.8.8.in-addr.arpa.   6333    IN      PTR     dns.google.
 ```
 ___
