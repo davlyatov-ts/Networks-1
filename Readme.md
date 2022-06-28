@@ -27,4 +27,5 @@ dig +short myip.opendns.com @resolver1.opendns.com
 ```
 ___
 4.Какому провайдеру принадлежит ваш IP адрес? Какой автономной системе AS? Воспользуйтесь утилитой ***whois***<br>
-
+![my ip](https://github.com/davlyatov-ts/Networks-1/blob/master/my%20ip.png)
+___
