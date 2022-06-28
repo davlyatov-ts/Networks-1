@@ -11,3 +11,5 @@
 
 -	Ответ<br>
 ![telnet stackoverflow.com 80](https://github.com/davlyatov-ts/Networks-1/blob/master/telnet.png)
+___
+2.Повторите задание 1 в браузере, используя консоль разработчика F12.<br>
