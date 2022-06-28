@@ -10,4 +10,4 @@
 В ответе укажите полученный HTTP код, что он означает?<br>
 
 -	Ответ<br>
-[telnet stackoverflow.com 80]
+![telnet stackoverflow.com 80](https://github.com/davlyatov-ts/Networks-1/blob/master/telnet.png)
