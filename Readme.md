@@ -11,6 +11,9 @@
 
 -	Ответ<br>
 ![telnet stackoverflow.com 80](https://github.com/davlyatov-ts/Networks-1/blob/master/telnet.png)
-Ответ **HTTP/1.1 301 Moved Permanently**. Запращиваемый ресурс был redirect на _https://stackoverflow.com/questions_<br>
+Ответ **HTTP/1.1 301 Moved Permanently**. Запращиваемый ресурс был redirect на
+```
+ _https://stackoverflow.com/questions_<br>
+```
 ___
 2.Повторите задание 1 в браузере, используя консоль разработчика F12.<br>
