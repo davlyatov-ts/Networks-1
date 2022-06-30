@@ -18,6 +18,7 @@ https://stackoverflow.com/questions<br>
 ___
 2.Повторите задание 1 в браузере, используя консоль разработчика F12.<br>
 -	откройте вкладку **Network**
+-	отправьте запрос http://stackoverflow.com
 ![]
 
 ___
