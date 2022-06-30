@@ -24,6 +24,9 @@ ___
 -	проверьте время загрузки страницы, какой запрос обрабатывался дольше всего?
 -	приложите скриншот консоли браузера в ответ.<br>
 ![](https://github.com/davlyatov-ts/Networks-1/blob/master/red.png)
+В ответ получили код 307 (Temporary Redirect)<br>
+![](https://github.com/davlyatov-ts/Networks-1/blob/master/11.png)
+![](https://github.com/davlyatov-ts/Networks-1/blob/master/22.png)
 
 ___
 3.Какой IP адрес у вас в интернете?<br>
