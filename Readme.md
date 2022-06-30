@@ -23,7 +23,7 @@ ___
 -	укажите в ответе полученный HTTP код.
 -	проверьте время загрузки страницы, какой запрос обрабатывался дольше всего?
 -	приложите скриншот консоли браузера в ответ.<br>
-!(https://github.com/davlyatov-ts/Networks-1/blob/master/permanent.png)
+![](https://github.com/davlyatov-ts/Networks-1/blob/master/permanent.png)
 
 ___
 3.Какой IP адрес у вас в интернете?<br>
